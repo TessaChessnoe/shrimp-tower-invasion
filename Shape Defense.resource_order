@@ -1,8 +1,14 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"User Interface","order":11,"path":"folders/Objects/User Interface.yy",},
+    {"name":"Buttons","order":2,"path":"folders/Objects/User Interface/Buttons.yy",},
+    {"name":"Shop","order":1,"path":"folders/Objects/User Interface/Buttons/Shop.yy",},
+    {"name":"Panels","order":3,"path":"folders/Objects/User Interface/Panels.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"obj_Init","order":8,"path":"objects/obj_Init/obj_Init.yy",},
     {"name":"obj_Room_Init","order":7,"path":"objects/obj_Room_Init/obj_Room_Init.yy",},
+    {"name":"obj_UI_Master","order":1,"path":"objects/obj_UI_Master/obj_UI_Master.yy",},
     {"name":"rm_Init","order":1,"path":"rooms/rm_Init/rm_Init.yy",},
     {"name":"draw_set","order":2,"path":"scripts/draw_set/draw_set.yy",},
     {"name":"layers","order":4,"path":"scripts/layers/layers.yy",},
@@ -19,6 +25,5 @@
     {"name":"spr_UI_Bar","order":4,"path":"sprites/spr_UI_Bar/spr_UI_Bar.yy",},
     {"name":"spr_UI_Close","order":1,"path":"sprites/spr_UI_Close/spr_UI_Close.yy",},
     {"name":"spr_UI_Panel","order":2,"path":"sprites/spr_UI_Panel/spr_UI_Panel.yy",},
-    {"name":"ts_shrimp","order":1,"path":"tilesets/ts_shrimp/ts_shrimp.yy",},
   ],
 }
